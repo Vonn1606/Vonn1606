@@ -51,7 +51,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img alt="GitHub streak" src="https://streak-stats.demolab.com/?user=YOUR-GITHUB-USERNAME&theme=default&hide_border=true" />
+  <img alt="GitHub streak" src="https://streak-stats.demolab.com/?user=Vonn1606&theme=default&hide_border=true" />
 </p>
 
 ---
