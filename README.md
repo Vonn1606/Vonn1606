@@ -18,7 +18,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Studying **Bachelors of Science in Information Technology at **University of the East - Caloocan** 
+- 🎓 Studying **Bachelors of Science in Information Technology** at **University of the East - Caloocan** 
 - 🔭 I love cats, and science
 - 🌱 Currently learning **ANYTHING**
 - 📫 Best way to reach me: *vonmogat@gmail.com**
