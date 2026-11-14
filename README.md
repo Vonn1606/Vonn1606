@@ -50,11 +50,6 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  <img height="170" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=default&hide_border=true" />
-</p>
-
-<p align="center">
   <img alt="GitHub streak" src="https://streak-stats.demolab.com/?user=YOUR-GITHUB-USERNAME&theme=default&hide_border=true" />
 </p>
 
