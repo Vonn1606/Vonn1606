@@ -1,9 +1,9 @@
 ## Hi there 👋
 
-<h1 align="center">Hi, I'm YOUR NAME 👋</h1>
+<h1 align="center">Hi, Charl Vonn M. Pascual 👋</h1>
 
 <p align="center">
-  Computer Science student passionate about building useful software and learning something new every day.
+ Information Technology student passionate about building useful software and learning something new every day.
 </p>
 
 <p align="center">
@@ -17,12 +17,10 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Studying **YOUR MAJOR** at **YOUR UNIVERSITY** (Class of YEAR)
-- 🔭 Currently working on **YOUR CURRENT PROJECT**
-- 🌱 Currently learning **TOPIC 1, TOPIC 2**
-- 🤝 Looking to collaborate on **TYPES OF PROJECTS**
-- 💬 Ask me about **YOUR STRONG TOPICS**
-- 📫 Best way to reach me: **EMAIL / LINKEDIN**
+- 🎓 Studying **Bachelors of Science in Information Technology at **University of the East - Caloocan** 
+- 🔭 I love cats, and science
+- 🌱 Currently learning **ANYTHING**
+- 📫 Best way to reach me: *vonmogat@gmail.com**
 
 ---
 
